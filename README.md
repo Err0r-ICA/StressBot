@@ -1,3 +1,3 @@
 # StressBot
 
-Website test: https://www.compulab.com/
+Website test: python3 main.py https://www.compulab.com/
